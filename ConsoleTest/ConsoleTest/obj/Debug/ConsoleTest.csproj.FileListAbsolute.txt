@@ -1,0 +1,6 @@
+c:\users\usuario1\documents\GitHub\Prueba\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+c:\users\usuario1\documents\GitHub\Prueba\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe
+c:\users\usuario1\documents\GitHub\Prueba\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.pdb
+c:\users\usuario1\documents\GitHub\Prueba\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+c:\users\usuario1\documents\GitHub\Prueba\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.exe
+c:\users\usuario1\documents\GitHub\Prueba\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.pdb
