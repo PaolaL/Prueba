@@ -12,6 +12,8 @@ namespace ConsoleTest
         {
             Console.WriteLine("hoola");
             Console.ReadLine();
+            Console.WriteLine("Probando nueva comit");
+            Console.ReadLine();
         }
     }
 }
