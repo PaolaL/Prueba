@@ -14,6 +14,8 @@ namespace ConsoleTest
             Console.ReadLine();
             Console.WriteLine("Probando nueva comit");
             Console.ReadLine();
+            Console.WriteLine("Probando nuevo comit de visual studio");
+            Console.ReadLine();
         }
     }
 }
